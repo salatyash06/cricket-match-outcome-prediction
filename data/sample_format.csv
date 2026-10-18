@@ -1,0 +1,5 @@
+match_id,date,team1,team2,venue,toss_winner,toss_decision,winner,team1_runs,team1_wickets,team2_runs,team2_wickets,data_source
+SYN00001,2022-01-01,South Africa,India,Newlands,South Africa,field,India,162,8,177,6,synthetic
+SYN00002,2022-01-02,West Indies,England,Newlands,England,field,West Indies,170,7,157,7,synthetic
+SYN00003,2022-01-03,England,Pakistan,Gaddafi Stadium,England,bat,Pakistan,145,8,150,3,synthetic
+SYN00004,2022-01-04,New Zealand,South Africa,Melbourne Cricket Ground,South Africa,field,South Africa,171,5,172,5,synthetic

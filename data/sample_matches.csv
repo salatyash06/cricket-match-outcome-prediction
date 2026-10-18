@@ -1,0 +1,721 @@
+match_id,date,team1,team2,venue,toss_winner,toss_decision,winner,team1_runs,team1_wickets,team2_runs,team2_wickets,data_source
+SYN00001,2022-01-01,South Africa,India,Newlands,South Africa,field,India,162,8,177,6,synthetic
+SYN00002,2022-01-02,West Indies,England,Newlands,England,field,West Indies,170,7,157,7,synthetic
+SYN00003,2022-01-03,England,Pakistan,Gaddafi Stadium,England,bat,Pakistan,145,8,150,3,synthetic
+SYN00004,2022-01-04,New Zealand,South Africa,Melbourne Cricket Ground,South Africa,field,South Africa,171,5,172,5,synthetic
+SYN00005,2022-01-05,Australia,India,Melbourne Cricket Ground,India,field,Australia,179,7,152,9,synthetic
+SYN00006,2022-01-06,England,South Africa,Kensington Oval,South Africa,field,South Africa,165,9,171,7,synthetic
+SYN00007,2022-01-07,New Zealand,West Indies,Eden Park,West Indies,field,New Zealand,164,5,141,9,synthetic
+SYN00008,2022-01-08,Sri Lanka,South Africa,R. Premadasa Stadium,Sri Lanka,bat,Sri Lanka,109,5,89,7,synthetic
+SYN00009,2022-01-09,West Indies,Sri Lanka,Eden Park,Sri Lanka,field,Sri Lanka,189,7,194,6,synthetic
+SYN00010,2022-01-10,Pakistan,South Africa,Newlands,South Africa,bat,South Africa,136,7,141,4,synthetic
+SYN00011,2022-01-11,Pakistan,West Indies,Newlands,Pakistan,field,Pakistan,135,4,133,8,synthetic
+SYN00012,2022-01-12,India,Sri Lanka,Melbourne Cricket Ground,Sri Lanka,field,India,169,6,161,5,synthetic
+SYN00013,2022-01-13,West Indies,South Africa,Kensington Oval,South Africa,field,South Africa,103,4,107,4,synthetic
+SYN00014,2022-01-14,New Zealand,Pakistan,Eden Park,Pakistan,field,New Zealand,164,6,144,5,synthetic
+SYN00015,2022-01-15,South Africa,Australia,Lord's,South Africa,bat,Australia,166,3,168,3,synthetic
+SYN00016,2022-01-16,South Africa,New Zealand,Eden Park,New Zealand,field,New Zealand,196,7,197,1,synthetic
+SYN00017,2022-01-17,South Africa,West Indies,Kensington Oval,South Africa,field,South Africa,171,6,166,5,synthetic
+SYN00018,2022-01-18,England,West Indies,Gaddafi Stadium,England,field,England,164,3,163,6,synthetic
+SYN00019,2022-01-19,Sri Lanka,West Indies,Newlands,Sri Lanka,field,West Indies,81,7,128,2,synthetic
+SYN00020,2022-01-20,Sri Lanka,India,Gaddafi Stadium,India,field,India,138,7,143,2,synthetic
+SYN00021,2022-01-21,Pakistan,Sri Lanka,Lord's,Pakistan,bat,Pakistan,159,7,156,7,synthetic
+SYN00022,2022-01-22,West Indies,Australia,R. Premadasa Stadium,West Indies,field,West Indies,178,3,175,7,synthetic
+SYN00023,2022-01-23,Sri Lanka,England,Kensington Oval,England,field,England,156,4,162,4,synthetic
+SYN00024,2022-01-24,India,Pakistan,Lord's,India,field,India,102,5,100,7,synthetic
+SYN00025,2022-01-25,New Zealand,Sri Lanka,Wankhede Stadium,New Zealand,field,New Zealand,224,4,222,7,synthetic
+SYN00026,2022-01-26,England,Australia,R. Premadasa Stadium,Australia,field,Australia,145,5,148,6,synthetic
+SYN00027,2022-01-27,South Africa,Pakistan,Lord's,South Africa,bat,South Africa,159,8,158,6,synthetic
+SYN00028,2022-01-28,New Zealand,England,Wankhede Stadium,New Zealand,field,England,198,9,205,6,synthetic
+SYN00029,2022-01-29,Pakistan,England,Kensington Oval,England,field,England,174,6,176,3,synthetic
+SYN00030,2022-01-30,Australia,New Zealand,Wankhede Stadium,Australia,field,Australia,192,3,191,5,synthetic
+SYN00031,2022-01-31,West Indies,New Zealand,Newlands,West Indies,field,New Zealand,121,6,142,9,synthetic
+SYN00032,2022-02-01,New Zealand,India,Eden Park,New Zealand,bat,New Zealand,174,7,155,9,synthetic
+SYN00033,2022-02-02,England,New Zealand,Melbourne Cricket Ground,England,bat,England,141,3,123,10,synthetic
+SYN00034,2022-02-03,India,South Africa,Eden Park,India,bat,India,181,4,145,9,synthetic
+SYN00035,2022-02-04,South Africa,England,Newlands,England,bat,South Africa,183,1,177,7,synthetic
+SYN00036,2022-02-05,Australia,South Africa,Wankhede Stadium,Australia,field,South Africa,192,8,212,8,synthetic
+SYN00037,2022-02-06,Sri Lanka,Pakistan,Wankhede Stadium,Pakistan,bat,Pakistan,132,9,148,6,synthetic
+SYN00038,2022-02-07,West Indies,India,Melbourne Cricket Ground,West Indies,bat,India,124,6,125,3,synthetic
+SYN00039,2022-02-08,India,West Indies,Eden Park,West Indies,field,India,188,8,154,8,synthetic
+SYN00040,2022-02-09,Pakistan,New Zealand,Newlands,New Zealand,field,New Zealand,181,8,183,2,synthetic
+SYN00041,2022-02-10,Australia,Pakistan,R. Premadasa Stadium,Australia,field,Pakistan,143,7,153,5,synthetic
+SYN00042,2022-02-11,New Zealand,Australia,Eden Park,New Zealand,field,New Zealand,221,1,216,4,synthetic
+SYN00043,2022-02-12,England,Sri Lanka,Kensington Oval,Sri Lanka,bat,England,187,7,183,1,synthetic
+SYN00044,2022-02-13,Pakistan,India,R. Premadasa Stadium,Pakistan,bat,India,139,9,140,8,synthetic
+SYN00045,2022-02-14,India,Australia,Eden Park,India,bat,Australia,183,6,187,9,synthetic
+SYN00046,2022-02-15,Sri Lanka,New Zealand,Lord's,New Zealand,field,New Zealand,145,8,149,5,synthetic
+SYN00047,2022-02-16,Australia,Sri Lanka,Lord's,Australia,field,Australia,116,2,111,7,synthetic
+SYN00048,2022-02-17,Sri Lanka,Australia,Melbourne Cricket Ground,Sri Lanka,bat,Australia,121,5,126,3,synthetic
+SYN00049,2022-02-18,England,India,Eden Park,England,field,India,185,7,187,3,synthetic
+SYN00050,2022-02-19,West Indies,Pakistan,Lord's,Pakistan,bat,Pakistan,133,10,139,4,synthetic
+SYN00051,2022-02-20,India,New Zealand,Melbourne Cricket Ground,New Zealand,field,New Zealand,154,5,155,4,synthetic
+SYN00052,2022-02-21,Pakistan,Australia,Lord's,Pakistan,bat,Australia,124,7,130,5,synthetic
+SYN00053,2022-02-22,South Africa,Sri Lanka,Wankhede Stadium,Sri Lanka,field,South Africa,174,4,156,6,synthetic
+SYN00054,2022-02-23,India,England,Gaddafi Stadium,India,field,England,175,4,199,9,synthetic
+SYN00055,2022-02-24,Australia,West Indies,Lord's,Australia,bat,Australia,168,9,153,7,synthetic
+SYN00056,2022-02-25,Australia,England,Lord's,Australia,field,Australia,204,2,201,7,synthetic
+SYN00057,2022-02-26,England,West Indies,Newlands,England,field,West Indies,129,7,166,7,synthetic
+SYN00058,2022-02-27,India,New Zealand,Lord's,New Zealand,bat,New Zealand,99,6,123,7,synthetic
+SYN00059,2022-02-28,England,New Zealand,Melbourne Cricket Ground,New Zealand,bat,New Zealand,151,7,169,9,synthetic
+SYN00060,2022-03-01,Australia,Pakistan,Lord's,Pakistan,bat,Australia,179,4,178,6,synthetic
+SYN00061,2022-03-02,England,Australia,R. Premadasa Stadium,Australia,field,England,132,8,120,8,synthetic
+SYN00062,2022-03-03,India,Pakistan,Newlands,Pakistan,field,India,174,7,170,7,synthetic
+SYN00063,2022-03-04,India,South Africa,R. Premadasa Stadium,South Africa,field,India,189,6,167,8,synthetic
+SYN00064,2022-03-05,Pakistan,South Africa,Gaddafi Stadium,South Africa,field,Pakistan,161,7,144,9,synthetic
+SYN00065,2022-03-06,Sri Lanka,New Zealand,Melbourne Cricket Ground,New Zealand,bat,New Zealand,193,6,196,5,synthetic
+SYN00066,2022-03-07,India,Australia,Melbourne Cricket Ground,India,field,India,174,6,169,7,synthetic
+SYN00067,2022-03-08,South Africa,West Indies,Melbourne Cricket Ground,West Indies,bat,South Africa,156,7,151,8,synthetic
+SYN00068,2022-03-09,Sri Lanka,West Indies,Newlands,Sri Lanka,bat,Sri Lanka,154,8,144,9,synthetic
+SYN00069,2022-03-10,Pakistan,West Indies,Lord's,Pakistan,field,Pakistan,142,5,139,4,synthetic
+SYN00070,2022-03-11,England,South Africa,Kensington Oval,England,bat,South Africa,171,10,177,2,synthetic
+SYN00071,2022-03-12,South Africa,England,Gaddafi Stadium,South Africa,bat,South Africa,181,6,138,9,synthetic
+SYN00072,2022-03-13,South Africa,India,Newlands,South Africa,field,India,182,7,196,6,synthetic
+SYN00073,2022-03-14,Pakistan,Australia,Eden Park,Australia,field,Australia,236,5,238,5,synthetic
+SYN00074,2022-03-15,Australia,Sri Lanka,Kensington Oval,Sri Lanka,bat,Sri Lanka,143,7,147,3,synthetic
+SYN00075,2022-03-16,South Africa,Sri Lanka,Melbourne Cricket Ground,Sri Lanka,field,South Africa,148,8,102,9,synthetic
+SYN00076,2022-03-17,New Zealand,Pakistan,Newlands,New Zealand,field,New Zealand,166,6,164,4,synthetic
+SYN00077,2022-03-18,West Indies,India,Gaddafi Stadium,India,bat,India,211,8,217,6,synthetic
+SYN00078,2022-03-19,Sri Lanka,South Africa,Newlands,South Africa,field,South Africa,128,7,130,3,synthetic
+SYN00079,2022-03-20,Australia,West Indies,Wankhede Stadium,West Indies,field,West Indies,183,6,188,1,synthetic
+SYN00080,2022-03-21,New Zealand,South Africa,Lord's,South Africa,field,New Zealand,161,8,144,7,synthetic
+SYN00081,2022-03-22,Sri Lanka,Australia,Newlands,Australia,field,Australia,136,6,142,5,synthetic
+SYN00082,2022-03-23,England,Pakistan,Wankhede Stadium,England,field,England,195,3,193,6,synthetic
+SYN00083,2022-03-24,England,Sri Lanka,Melbourne Cricket Ground,England,field,Sri Lanka,91,7,97,3,synthetic
+SYN00084,2022-03-25,Sri Lanka,Pakistan,Lord's,Pakistan,field,Pakistan,197,5,201,2,synthetic
+SYN00085,2022-03-26,West Indies,Sri Lanka,Wankhede Stadium,West Indies,field,Sri Lanka,119,8,138,5,synthetic
+SYN00086,2022-03-27,Pakistan,New Zealand,Eden Park,Pakistan,field,Pakistan,185,4,183,4,synthetic
+SYN00087,2022-03-28,India,West Indies,R. Premadasa Stadium,West Indies,field,India,186,6,158,10,synthetic
+SYN00088,2022-03-29,Australia,England,Eden Park,Australia,bat,Australia,154,5,131,6,synthetic
+SYN00089,2022-03-30,England,India,Melbourne Cricket Ground,England,field,India,161,6,172,8,synthetic
+SYN00090,2022-03-31,New Zealand,West Indies,Gaddafi Stadium,New Zealand,field,New Zealand,143,7,137,8,synthetic
+SYN00091,2022-04-01,Australia,New Zealand,R. Premadasa Stadium,New Zealand,bat,Australia,172,6,168,5,synthetic
+SYN00092,2022-04-02,Pakistan,England,Kensington Oval,England,field,England,162,7,167,5,synthetic
+SYN00093,2022-04-03,New Zealand,India,Newlands,India,field,India,133,9,135,4,synthetic
+SYN00094,2022-04-04,Pakistan,Sri Lanka,Eden Park,Pakistan,bat,Sri Lanka,176,3,178,7,synthetic
+SYN00095,2022-04-05,West Indies,England,Eden Park,West Indies,bat,England,187,6,190,8,synthetic
+SYN00096,2022-04-06,West Indies,South Africa,Lord's,West Indies,bat,West Indies,144,6,129,9,synthetic
+SYN00097,2022-04-07,Sri Lanka,England,Melbourne Cricket Ground,England,bat,England,148,6,158,7,synthetic
+SYN00098,2022-04-08,West Indies,Pakistan,Kensington Oval,Pakistan,field,Pakistan,110,2,112,5,synthetic
+SYN00099,2022-04-09,Pakistan,India,Eden Park,India,field,India,192,6,197,4,synthetic
+SYN00100,2022-04-10,Australia,India,Eden Park,India,field,India,147,5,153,3,synthetic
+SYN00101,2022-04-11,New Zealand,England,Melbourne Cricket Ground,England,field,England,176,6,182,0,synthetic
+SYN00102,2022-04-12,India,Sri Lanka,Gaddafi Stadium,Sri Lanka,field,India,157,7,148,8,synthetic
+SYN00103,2022-04-13,New Zealand,Sri Lanka,Gaddafi Stadium,Sri Lanka,field,New Zealand,203,5,193,5,synthetic
+SYN00104,2022-04-14,South Africa,Pakistan,Melbourne Cricket Ground,South Africa,field,South Africa,157,3,154,7,synthetic
+SYN00105,2022-04-15,New Zealand,Australia,Lord's,Australia,field,Australia,173,7,179,9,synthetic
+SYN00106,2022-04-16,West Indies,Australia,Kensington Oval,Australia,field,West Indies,142,4,77,6,synthetic
+SYN00107,2022-04-17,Australia,South Africa,Newlands,Australia,bat,South Africa,134,7,135,5,synthetic
+SYN00108,2022-04-18,South Africa,Australia,R. Premadasa Stadium,Australia,bat,Australia,147,7,150,8,synthetic
+SYN00109,2022-04-19,South Africa,New Zealand,Newlands,New Zealand,bat,New Zealand,150,5,180,3,synthetic
+SYN00110,2022-04-20,West Indies,New Zealand,Lord's,New Zealand,bat,New Zealand,136,7,174,9,synthetic
+SYN00111,2022-04-21,India,England,Melbourne Cricket Ground,England,field,India,142,7,135,10,synthetic
+SYN00112,2022-04-22,Sri Lanka,India,Eden Park,Sri Lanka,field,India,179,10,204,6,synthetic
+SYN00113,2022-04-23,India,West Indies,Wankhede Stadium,West Indies,field,India,203,6,176,8,synthetic
+SYN00114,2022-04-24,Sri Lanka,New Zealand,Wankhede Stadium,New Zealand,bat,New Zealand,146,9,211,4,synthetic
+SYN00115,2022-04-25,Sri Lanka,South Africa,R. Premadasa Stadium,South Africa,bat,Sri Lanka,189,3,186,6,synthetic
+SYN00116,2022-04-26,Pakistan,England,Melbourne Cricket Ground,Pakistan,field,Pakistan,164,2,159,4,synthetic
+SYN00117,2022-04-27,New Zealand,England,Wankhede Stadium,England,field,England,149,8,153,3,synthetic
+SYN00118,2022-04-28,West Indies,Pakistan,Kensington Oval,West Indies,bat,Pakistan,164,10,165,4,synthetic
+SYN00119,2022-04-29,England,Australia,Eden Park,England,field,Australia,160,8,175,9,synthetic
+SYN00120,2022-04-30,West Indies,England,Eden Park,West Indies,bat,England,151,7,154,6,synthetic
+SYN00121,2022-05-01,Australia,India,Lord's,India,bat,Australia,132,4,129,6,synthetic
+SYN00122,2022-05-02,Australia,New Zealand,Melbourne Cricket Ground,Australia,bat,Australia,132,5,82,8,synthetic
+SYN00123,2022-05-03,Pakistan,Sri Lanka,Gaddafi Stadium,Pakistan,bat,Pakistan,192,4,171,6,synthetic
+SYN00124,2022-05-04,Sri Lanka,England,Kensington Oval,Sri Lanka,field,Sri Lanka,148,2,147,7,synthetic
+SYN00125,2022-05-05,South Africa,West Indies,Wankhede Stadium,West Indies,field,South Africa,209,7,195,4,synthetic
+SYN00126,2022-05-06,South Africa,New Zealand,Kensington Oval,New Zealand,field,South Africa,176,8,174,8,synthetic
+SYN00127,2022-05-07,West Indies,Sri Lanka,Wankhede Stadium,Sri Lanka,field,Sri Lanka,143,1,146,4,synthetic
+SYN00128,2022-05-08,England,New Zealand,Kensington Oval,New Zealand,field,England,121,7,96,9,synthetic
+SYN00129,2022-05-09,South Africa,England,R. Premadasa Stadium,England,field,England,114,4,120,7,synthetic
+SYN00130,2022-05-10,Pakistan,New Zealand,Wankhede Stadium,New Zealand,field,Pakistan,203,6,200,8,synthetic
+SYN00131,2022-05-11,Australia,England,Melbourne Cricket Ground,Australia,field,England,144,9,154,4,synthetic
+SYN00132,2022-05-12,South Africa,Australia,Melbourne Cricket Ground,Australia,field,South Africa,139,4,132,6,synthetic
+SYN00133,2022-05-13,Australia,West Indies,Newlands,Australia,field,Australia,145,2,141,7,synthetic
+SYN00134,2022-05-14,England,West Indies,Eden Park,West Indies,field,West Indies,195,8,197,4,synthetic
+SYN00135,2022-05-15,West Indies,New Zealand,Gaddafi Stadium,New Zealand,field,New Zealand,112,8,114,4,synthetic
+SYN00136,2022-05-16,South Africa,Sri Lanka,Melbourne Cricket Ground,South Africa,bat,South Africa,171,7,150,10,synthetic
+SYN00137,2022-05-17,Sri Lanka,Australia,Eden Park,Australia,bat,Australia,116,8,157,5,synthetic
+SYN00138,2022-05-18,India,Sri Lanka,Gaddafi Stadium,India,bat,India,182,6,173,10,synthetic
+SYN00139,2022-05-19,West Indies,Australia,Kensington Oval,West Indies,field,Australia,138,9,175,7,synthetic
+SYN00140,2022-05-20,New Zealand,South Africa,R. Premadasa Stadium,New Zealand,field,South Africa,106,8,125,5,synthetic
+SYN00141,2022-05-21,Sri Lanka,Pakistan,R. Premadasa Stadium,Sri Lanka,bat,Pakistan,143,3,149,5,synthetic
+SYN00142,2022-05-22,New Zealand,Pakistan,Melbourne Cricket Ground,Pakistan,field,New Zealand,164,6,127,6,synthetic
+SYN00143,2022-05-23,India,South Africa,Kensington Oval,South Africa,field,India,167,3,145,9,synthetic
+SYN00144,2022-05-24,Pakistan,India,R. Premadasa Stadium,India,bat,India,192,8,201,8,synthetic
+SYN00145,2022-05-25,Pakistan,Australia,Wankhede Stadium,Pakistan,bat,Australia,174,7,176,2,synthetic
+SYN00146,2022-05-26,South Africa,Pakistan,R. Premadasa Stadium,South Africa,bat,South Africa,121,4,110,6,synthetic
+SYN00147,2022-05-27,India,Pakistan,Newlands,India,bat,India,185,5,182,7,synthetic
+SYN00148,2022-05-28,Sri Lanka,West Indies,Lord's,Sri Lanka,field,Sri Lanka,121,2,119,6,synthetic
+SYN00149,2022-05-29,India,New Zealand,Eden Park,New Zealand,bat,New Zealand,200,7,220,5,synthetic
+SYN00150,2022-05-30,West Indies,India,R. Premadasa Stadium,India,field,India,119,6,124,4,synthetic
+SYN00151,2022-05-31,New Zealand,Australia,Kensington Oval,Australia,field,New Zealand,150,9,114,6,synthetic
+SYN00152,2022-06-01,South Africa,India,Melbourne Cricket Ground,India,bat,India,163,9,167,6,synthetic
+SYN00153,2022-06-02,Australia,Pakistan,Newlands,Australia,field,Australia,146,5,143,9,synthetic
+SYN00154,2022-06-03,England,South Africa,Gaddafi Stadium,England,bat,England,184,5,153,6,synthetic
+SYN00155,2022-06-04,Sri Lanka,India,Wankhede Stadium,Sri Lanka,field,India,218,6,225,10,synthetic
+SYN00156,2022-06-05,Australia,Sri Lanka,Newlands,Sri Lanka,bat,Australia,151,3,145,4,synthetic
+SYN00157,2022-06-06,England,India,Melbourne Cricket Ground,India,field,India,162,4,167,8,synthetic
+SYN00158,2022-06-07,New Zealand,India,Wankhede Stadium,India,bat,India,130,3,159,9,synthetic
+SYN00159,2022-06-08,New Zealand,Sri Lanka,Newlands,Sri Lanka,field,Sri Lanka,126,7,129,2,synthetic
+SYN00160,2022-06-09,India,Australia,Melbourne Cricket Ground,Australia,field,Australia,158,5,159,4,synthetic
+SYN00161,2022-06-10,Pakistan,West Indies,Wankhede Stadium,West Indies,field,Pakistan,171,5,153,8,synthetic
+SYN00162,2022-06-11,Australia,South Africa,Kensington Oval,South Africa,bat,South Africa,102,7,119,6,synthetic
+SYN00163,2022-06-12,New Zealand,West Indies,R. Premadasa Stadium,West Indies,bat,New Zealand,99,6,97,7,synthetic
+SYN00164,2022-06-13,England,Pakistan,Melbourne Cricket Ground,Pakistan,field,Pakistan,146,6,151,6,synthetic
+SYN00165,2022-06-14,West Indies,South Africa,Kensington Oval,West Indies,field,South Africa,156,6,170,6,synthetic
+SYN00166,2022-06-15,Pakistan,South Africa,Eden Park,Pakistan,field,South Africa,135,7,152,2,synthetic
+SYN00167,2022-06-16,England,Sri Lanka,Kensington Oval,England,field,England,177,4,171,7,synthetic
+SYN00168,2022-06-17,India,England,Newlands,India,field,India,140,6,134,9,synthetic
+SYN00169,2022-06-18,India,Pakistan,Gaddafi Stadium,Pakistan,field,Pakistan,174,6,180,3,synthetic
+SYN00170,2022-06-19,Pakistan,Australia,Melbourne Cricket Ground,Pakistan,bat,Australia,171,9,176,7,synthetic
+SYN00171,2022-06-20,India,West Indies,Gaddafi Stadium,India,field,India,167,3,163,2,synthetic
+SYN00172,2022-06-21,Australia,New Zealand,Gaddafi Stadium,New Zealand,bat,Australia,160,1,155,4,synthetic
+SYN00173,2022-06-22,India,South Africa,Melbourne Cricket Ground,India,field,India,151,6,147,4,synthetic
+SYN00174,2022-06-23,Pakistan,Sri Lanka,Kensington Oval,Sri Lanka,field,Sri Lanka,165,6,171,4,synthetic
+SYN00175,2022-06-24,West Indies,South Africa,Melbourne Cricket Ground,South Africa,bat,West Indies,105,3,99,8,synthetic
+SYN00176,2022-06-25,India,Sri Lanka,Newlands,Sri Lanka,field,India,190,3,154,5,synthetic
+SYN00177,2022-06-26,New Zealand,India,Newlands,India,bat,New Zealand,132,3,126,5,synthetic
+SYN00178,2022-06-27,India,New Zealand,Newlands,New Zealand,field,India,138,5,130,8,synthetic
+SYN00179,2022-06-28,Sri Lanka,South Africa,Wankhede Stadium,South Africa,bat,Sri Lanka,165,8,163,4,synthetic
+SYN00180,2022-06-29,West Indies,India,Wankhede Stadium,India,field,India,170,4,175,6,synthetic
+SYN00181,2022-06-30,Sri Lanka,Pakistan,R. Premadasa Stadium,Pakistan,bat,Pakistan,124,8,138,6,synthetic
+SYN00182,2022-07-01,Sri Lanka,India,Newlands,Sri Lanka,field,India,144,5,162,5,synthetic
+SYN00183,2022-07-02,Pakistan,England,Lord's,England,field,England,169,6,174,5,synthetic
+SYN00184,2022-07-03,South Africa,India,R. Premadasa Stadium,India,bat,India,139,8,144,5,synthetic
+SYN00185,2022-07-04,England,Sri Lanka,Newlands,England,bat,England,170,6,159,7,synthetic
+SYN00186,2022-07-05,Pakistan,West Indies,Wankhede Stadium,Pakistan,field,Pakistan,197,3,194,6,synthetic
+SYN00187,2022-07-06,New Zealand,West Indies,Wankhede Stadium,West Indies,field,West Indies,196,6,201,5,synthetic
+SYN00188,2022-07-07,Australia,India,Kensington Oval,India,field,India,167,5,171,5,synthetic
+SYN00189,2022-07-08,India,England,Kensington Oval,England,bat,India,110,7,108,6,synthetic
+SYN00190,2022-07-09,India,Australia,Newlands,India,field,India,177,6,175,5,synthetic
+SYN00191,2022-07-10,Sri Lanka,England,Newlands,England,field,England,191,5,195,3,synthetic
+SYN00192,2022-07-11,Sri Lanka,West Indies,Lord's,Sri Lanka,field,Sri Lanka,178,7,174,4,synthetic
+SYN00193,2022-07-12,Pakistan,New Zealand,Kensington Oval,Pakistan,bat,New Zealand,150,3,151,3,synthetic
+SYN00194,2022-07-13,West Indies,Australia,Gaddafi Stadium,Australia,field,Australia,155,6,161,6,synthetic
+SYN00195,2022-07-14,Pakistan,India,Lord's,Pakistan,bat,Pakistan,125,2,111,7,synthetic
+SYN00196,2022-07-15,England,New Zealand,Lord's,England,field,England,147,2,143,7,synthetic
+SYN00197,2022-07-16,Australia,Sri Lanka,Wankhede Stadium,Australia,bat,Australia,175,5,152,9,synthetic
+SYN00198,2022-07-17,Pakistan,South Africa,R. Premadasa Stadium,Pakistan,field,South Africa,153,6,173,5,synthetic
+SYN00199,2022-07-18,South Africa,Pakistan,Kensington Oval,South Africa,bat,Pakistan,143,5,144,5,synthetic
+SYN00200,2022-07-19,West Indies,Sri Lanka,Kensington Oval,West Indies,field,West Indies,173,5,172,6,synthetic
+SYN00201,2022-07-20,England,South Africa,Kensington Oval,South Africa,field,England,151,6,135,10,synthetic
+SYN00202,2022-07-21,New Zealand,Australia,Kensington Oval,Australia,field,New Zealand,216,5,195,7,synthetic
+SYN00203,2022-07-22,South Africa,West Indies,Newlands,West Indies,field,South Africa,158,5,93,6,synthetic
+SYN00204,2022-07-23,England,India,Newlands,England,bat,England,160,6,132,6,synthetic
+SYN00205,2022-07-24,West Indies,England,Wankhede Stadium,West Indies,field,England,188,10,199,5,synthetic
+SYN00206,2022-07-25,New Zealand,Sri Lanka,Kensington Oval,New Zealand,bat,New Zealand,132,5,122,6,synthetic
+SYN00207,2022-07-26,England,West Indies,Eden Park,West Indies,field,England,198,7,172,10,synthetic
+SYN00208,2022-07-27,West Indies,Pakistan,Eden Park,Pakistan,field,Pakistan,173,6,177,4,synthetic
+SYN00209,2022-07-28,New Zealand,England,Kensington Oval,New Zealand,field,New Zealand,150,1,146,6,synthetic
+SYN00210,2022-07-29,South Africa,Sri Lanka,Eden Park,Sri Lanka,bat,South Africa,163,5,161,6,synthetic
+SYN00211,2022-07-30,Australia,England,Lord's,England,bat,England,162,9,174,7,synthetic
+SYN00212,2022-07-31,New Zealand,South Africa,R. Premadasa Stadium,New Zealand,field,New Zealand,153,2,152,6,synthetic
+SYN00213,2022-08-01,West Indies,New Zealand,Gaddafi Stadium,New Zealand,bat,New Zealand,135,10,154,6,synthetic
+SYN00214,2022-08-02,South Africa,England,Gaddafi Stadium,England,field,England,206,4,210,3,synthetic
+SYN00215,2022-08-03,Sri Lanka,New Zealand,Eden Park,New Zealand,bat,New Zealand,207,8,211,5,synthetic
+SYN00216,2022-08-04,England,Pakistan,Gaddafi Stadium,England,bat,England,204,4,188,3,synthetic
+SYN00217,2022-08-05,New Zealand,Pakistan,R. Premadasa Stadium,New Zealand,field,New Zealand,177,3,173,7,synthetic
+SYN00218,2022-08-06,Australia,Pakistan,Kensington Oval,Australia,field,Australia,176,1,173,6,synthetic
+SYN00219,2022-08-07,South Africa,Australia,Newlands,Australia,field,Australia,174,6,177,2,synthetic
+SYN00220,2022-08-08,Australia,West Indies,Kensington Oval,Australia,field,Australia,156,5,154,8,synthetic
+SYN00221,2022-08-09,England,Australia,Gaddafi Stadium,England,bat,England,196,3,173,10,synthetic
+SYN00222,2022-08-10,Australia,South Africa,Kensington Oval,Australia,bat,South Africa,154,5,156,4,synthetic
+SYN00223,2022-08-11,South Africa,New Zealand,Wankhede Stadium,New Zealand,field,New Zealand,165,9,171,5,synthetic
+SYN00224,2022-08-12,Sri Lanka,Australia,Kensington Oval,Australia,field,Sri Lanka,186,6,162,7,synthetic
+SYN00225,2022-08-13,India,Australia,R. Premadasa Stadium,India,field,India,188,0,183,8,synthetic
+SYN00226,2022-08-14,Australia,England,Lord's,Australia,bat,Australia,188,4,184,7,synthetic
+SYN00227,2022-08-15,South Africa,England,Melbourne Cricket Ground,South Africa,bat,South Africa,181,8,137,4,synthetic
+SYN00228,2022-08-16,England,Sri Lanka,Wankhede Stadium,Sri Lanka,bat,England,154,6,153,9,synthetic
+SYN00229,2022-08-17,England,Australia,Newlands,Australia,bat,Australia,115,10,134,2,synthetic
+SYN00230,2022-08-18,Pakistan,New Zealand,Newlands,New Zealand,bat,New Zealand,126,7,170,10,synthetic
+SYN00231,2022-08-19,New Zealand,England,Melbourne Cricket Ground,New Zealand,bat,New Zealand,157,9,145,8,synthetic
+SYN00232,2022-08-20,Pakistan,Australia,Wankhede Stadium,Australia,bat,Australia,190,6,201,3,synthetic
+SYN00233,2022-08-21,Pakistan,Sri Lanka,Wankhede Stadium,Sri Lanka,bat,Sri Lanka,125,6,128,7,synthetic
+SYN00234,2022-08-22,England,West Indies,R. Premadasa Stadium,West Indies,field,England,173,5,140,6,synthetic
+SYN00235,2022-08-23,India,Pakistan,R. Premadasa Stadium,Pakistan,field,India,168,5,167,6,synthetic
+SYN00236,2022-08-24,Australia,South Africa,Eden Park,South Africa,field,South Africa,215,5,217,6,synthetic
+SYN00237,2022-08-25,West Indies,Australia,Lord's,Australia,bat,Australia,126,7,162,6,synthetic
+SYN00238,2022-08-26,Pakistan,West Indies,R. Premadasa Stadium,Pakistan,field,Pakistan,127,4,123,6,synthetic
+SYN00239,2022-08-27,England,Pakistan,R. Premadasa Stadium,Pakistan,field,Pakistan,164,8,170,5,synthetic
+SYN00240,2022-08-28,Australia,West Indies,Kensington Oval,West Indies,field,Australia,231,5,220,9,synthetic
+SYN00241,2022-08-29,India,South Africa,Newlands,South Africa,field,South Africa,155,6,157,6,synthetic
+SYN00242,2022-08-30,West Indies,Sri Lanka,Gaddafi Stadium,West Indies,field,West Indies,142,3,141,6,synthetic
+SYN00243,2022-08-31,Australia,Sri Lanka,Melbourne Cricket Ground,Sri Lanka,field,Australia,168,5,156,8,synthetic
+SYN00244,2022-09-01,New Zealand,Australia,Melbourne Cricket Ground,Australia,bat,Australia,128,8,181,5,synthetic
+SYN00245,2022-09-02,India,Sri Lanka,R. Premadasa Stadium,India,field,India,165,4,162,8,synthetic
+SYN00246,2022-09-03,South Africa,Pakistan,Wankhede Stadium,Pakistan,field,South Africa,202,10,187,7,synthetic
+SYN00247,2022-09-04,New Zealand,Sri Lanka,Newlands,Sri Lanka,field,New Zealand,172,8,140,8,synthetic
+SYN00248,2022-09-05,India,New Zealand,Gaddafi Stadium,New Zealand,field,India,185,7,167,8,synthetic
+SYN00249,2022-09-06,Pakistan,South Africa,Eden Park,South Africa,field,South Africa,216,6,218,8,synthetic
+SYN00250,2022-09-07,South Africa,Sri Lanka,R. Premadasa Stadium,Sri Lanka,field,South Africa,144,8,119,8,synthetic
+SYN00251,2022-09-08,West Indies,South Africa,Melbourne Cricket Ground,South Africa,field,South Africa,116,7,120,6,synthetic
+SYN00252,2022-09-09,Sri Lanka,South Africa,Newlands,South Africa,field,South Africa,149,5,150,8,synthetic
+SYN00253,2022-09-10,Sri Lanka,Pakistan,Melbourne Cricket Ground,Pakistan,bat,Pakistan,128,4,150,2,synthetic
+SYN00254,2022-09-11,South Africa,West Indies,Melbourne Cricket Ground,South Africa,bat,West Indies,164,8,166,8,synthetic
+SYN00255,2022-09-12,England,New Zealand,Newlands,New Zealand,field,New Zealand,120,7,125,6,synthetic
+SYN00256,2022-09-13,Sri Lanka,Australia,Melbourne Cricket Ground,Australia,bat,Australia,111,6,150,4,synthetic
+SYN00257,2022-09-14,Sri Lanka,India,Eden Park,India,bat,India,170,9,212,6,synthetic
+SYN00258,2022-09-15,New Zealand,South Africa,Gaddafi Stadium,New Zealand,bat,South Africa,139,5,145,7,synthetic
+SYN00259,2022-09-16,South Africa,India,Melbourne Cricket Ground,South Africa,field,South Africa,205,7,199,6,synthetic
+SYN00260,2022-09-17,Pakistan,India,Eden Park,Pakistan,bat,Pakistan,144,3,114,7,synthetic
+SYN00261,2022-09-18,South Africa,Australia,Eden Park,South Africa,bat,Australia,160,9,163,3,synthetic
+SYN00262,2022-09-19,Australia,Pakistan,Gaddafi Stadium,Pakistan,bat,Australia,167,3,164,8,synthetic
+SYN00263,2022-09-20,West Indies,India,Melbourne Cricket Ground,West Indies,field,India,133,7,171,8,synthetic
+SYN00264,2022-09-21,Australia,India,Lord's,India,bat,Australia,153,7,147,4,synthetic
+SYN00265,2022-09-22,West Indies,New Zealand,Newlands,New Zealand,field,New Zealand,200,4,202,5,synthetic
+SYN00266,2022-09-23,India,England,Melbourne Cricket Ground,India,field,England,153,6,167,4,synthetic
+SYN00267,2022-09-24,New Zealand,West Indies,R. Premadasa Stadium,West Indies,field,West Indies,161,5,164,4,synthetic
+SYN00268,2022-09-25,West Indies,England,Kensington Oval,West Indies,field,England,148,10,162,7,synthetic
+SYN00269,2022-09-26,Sri Lanka,West Indies,Wankhede Stadium,West Indies,field,Sri Lanka,169,8,160,8,synthetic
+SYN00270,2022-09-27,England,South Africa,R. Premadasa Stadium,England,field,England,127,4,123,4,synthetic
+SYN00271,2022-09-28,Australia,New Zealand,Kensington Oval,New Zealand,bat,Australia,179,6,173,4,synthetic
+SYN00272,2022-09-29,New Zealand,Pakistan,Newlands,New Zealand,field,New Zealand,154,5,149,7,synthetic
+SYN00273,2022-09-30,Sri Lanka,New Zealand,Kensington Oval,Sri Lanka,bat,New Zealand,132,6,137,5,synthetic
+SYN00274,2022-10-01,New Zealand,India,Wankhede Stadium,New Zealand,field,New Zealand,190,5,188,8,synthetic
+SYN00275,2022-10-02,South Africa,New Zealand,Melbourne Cricket Ground,South Africa,field,New Zealand,152,7,202,4,synthetic
+SYN00276,2022-10-03,India,West Indies,Gaddafi Stadium,West Indies,bat,West Indies,165,4,192,4,synthetic
+SYN00277,2022-10-04,Pakistan,England,Lord's,England,bat,Pakistan,166,5,164,7,synthetic
+SYN00278,2022-10-05,Sri Lanka,England,Eden Park,Sri Lanka,field,England,139,9,160,7,synthetic
+SYN00279,2022-10-06,England,India,Kensington Oval,India,bat,India,157,9,159,5,synthetic
+SYN00280,2022-10-07,West Indies,Pakistan,Newlands,West Indies,bat,Pakistan,146,5,150,6,synthetic
+SYN00281,2022-10-08,New Zealand,Sri Lanka,Lord's,New Zealand,field,New Zealand,146,6,141,7,synthetic
+SYN00282,2022-10-09,West Indies,South Africa,Newlands,West Indies,bat,South Africa,136,5,139,4,synthetic
+SYN00283,2022-10-10,Australia,Sri Lanka,Lord's,Australia,bat,Australia,158,7,144,6,synthetic
+SYN00284,2022-10-11,Australia,India,Kensington Oval,Australia,field,India,101,8,151,6,synthetic
+SYN00285,2022-10-12,South Africa,England,Eden Park,South Africa,field,South Africa,177,5,175,5,synthetic
+SYN00286,2022-10-13,England,India,Wankhede Stadium,England,field,England,204,6,201,3,synthetic
+SYN00287,2022-10-14,Australia,West Indies,Wankhede Stadium,Australia,field,West Indies,143,9,208,3,synthetic
+SYN00288,2022-10-15,England,Sri Lanka,Wankhede Stadium,England,bat,England,196,6,159,7,synthetic
+SYN00289,2022-10-16,India,Pakistan,Melbourne Cricket Ground,India,field,India,136,3,130,5,synthetic
+SYN00290,2022-10-17,India,West Indies,Melbourne Cricket Ground,West Indies,field,India,201,6,185,7,synthetic
+SYN00291,2022-10-18,South Africa,West Indies,Newlands,South Africa,bat,South Africa,228,4,223,10,synthetic
+SYN00292,2022-10-19,Pakistan,Sri Lanka,Gaddafi Stadium,Sri Lanka,bat,Pakistan,148,0,144,3,synthetic
+SYN00293,2022-10-20,Sri Lanka,South Africa,Wankhede Stadium,South Africa,bat,South Africa,158,7,186,8,synthetic
+SYN00294,2022-10-21,West Indies,Pakistan,Melbourne Cricket Ground,Pakistan,bat,Pakistan,130,6,153,5,synthetic
+SYN00295,2022-10-22,West Indies,New Zealand,Melbourne Cricket Ground,New Zealand,field,West Indies,132,7,122,9,synthetic
+SYN00296,2022-10-23,India,Australia,Kensington Oval,India,bat,Australia,171,4,174,5,synthetic
+SYN00297,2022-10-24,South Africa,India,Gaddafi Stadium,India,bat,India,142,6,188,10,synthetic
+SYN00298,2022-10-25,South Africa,New Zealand,Eden Park,South Africa,field,New Zealand,136,8,167,5,synthetic
+SYN00299,2022-10-26,India,Sri Lanka,Wankhede Stadium,India,bat,Sri Lanka,213,8,217,0,synthetic
+SYN00300,2022-10-27,Sri Lanka,Australia,Newlands,Sri Lanka,field,Australia,184,7,201,8,synthetic
+SYN00301,2022-10-28,Australia,Pakistan,Gaddafi Stadium,Australia,bat,Australia,205,4,177,7,synthetic
+SYN00302,2022-10-29,West Indies,India,R. Premadasa Stadium,West Indies,field,India,110,7,167,6,synthetic
+SYN00303,2022-10-30,New Zealand,Pakistan,Gaddafi Stadium,New Zealand,field,New Zealand,205,8,200,5,synthetic
+SYN00304,2022-10-31,England,New Zealand,Kensington Oval,England,field,England,155,3,152,6,synthetic
+SYN00305,2022-11-01,India,England,Eden Park,India,bat,England,220,6,224,5,synthetic
+SYN00306,2022-11-02,England,West Indies,Newlands,West Indies,field,England,199,6,157,10,synthetic
+SYN00307,2022-11-03,Sri Lanka,Pakistan,Melbourne Cricket Ground,Pakistan,field,Pakistan,128,10,129,4,synthetic
+SYN00308,2022-11-04,New Zealand,South Africa,Eden Park,South Africa,bat,South Africa,171,7,173,5,synthetic
+SYN00309,2022-11-05,Pakistan,South Africa,Kensington Oval,Pakistan,field,South Africa,159,9,169,8,synthetic
+SYN00310,2022-11-06,West Indies,Australia,Melbourne Cricket Ground,Australia,bat,Australia,120,7,142,9,synthetic
+SYN00311,2022-11-07,West Indies,Sri Lanka,Kensington Oval,Sri Lanka,field,West Indies,141,6,126,5,synthetic
+SYN00312,2022-11-08,West Indies,England,Lord's,England,field,England,150,4,154,4,synthetic
+SYN00313,2022-11-09,New Zealand,England,Wankhede Stadium,New Zealand,bat,England,181,5,185,5,synthetic
+SYN00314,2022-11-10,South Africa,Sri Lanka,Melbourne Cricket Ground,Sri Lanka,field,South Africa,143,6,132,7,synthetic
+SYN00315,2022-11-11,Australia,England,Lord's,Australia,field,England,150,8,169,10,synthetic
+SYN00316,2022-11-12,Pakistan,West Indies,Kensington Oval,Pakistan,field,Pakistan,178,2,176,6,synthetic
+SYN00317,2022-11-13,Pakistan,England,Wankhede Stadium,England,bat,Pakistan,149,4,144,4,synthetic
+SYN00318,2022-11-14,England,Pakistan,Wankhede Stadium,England,field,Pakistan,181,9,188,4,synthetic
+SYN00319,2022-11-15,New Zealand,India,Lord's,New Zealand,bat,New Zealand,201,4,161,10,synthetic
+SYN00320,2022-11-16,New Zealand,West Indies,Newlands,West Indies,bat,West Indies,154,8,171,6,synthetic
+SYN00321,2022-11-17,Sri Lanka,New Zealand,Kensington Oval,New Zealand,field,Sri Lanka,193,7,172,6,synthetic
+SYN00322,2022-11-18,Sri Lanka,West Indies,Eden Park,West Indies,field,West Indies,181,7,182,5,synthetic
+SYN00323,2022-11-19,South Africa,Australia,Newlands,South Africa,bat,Australia,138,7,142,3,synthetic
+SYN00324,2022-11-20,Australia,New Zealand,Kensington Oval,Australia,field,Australia,193,5,192,8,synthetic
+SYN00325,2022-11-21,Pakistan,India,Kensington Oval,India,field,Pakistan,164,5,142,7,synthetic
+SYN00326,2022-11-22,Australia,South Africa,Lord's,South Africa,field,South Africa,177,6,180,3,synthetic
+SYN00327,2022-11-23,Sri Lanka,England,Eden Park,Sri Lanka,field,England,161,6,186,7,synthetic
+SYN00328,2022-11-24,England,South Africa,Wankhede Stadium,South Africa,field,England,155,8,128,8,synthetic
+SYN00329,2022-11-25,Pakistan,Australia,Kensington Oval,Pakistan,bat,Pakistan,173,7,166,6,synthetic
+SYN00330,2022-11-26,India,South Africa,Eden Park,India,field,South Africa,156,6,161,5,synthetic
+SYN00331,2022-11-27,India,New Zealand,Newlands,New Zealand,bat,New Zealand,93,7,127,6,synthetic
+SYN00332,2022-11-28,England,Australia,R. Premadasa Stadium,England,field,England,152,5,149,7,synthetic
+SYN00333,2022-11-29,Sri Lanka,India,Wankhede Stadium,Sri Lanka,field,India,169,5,203,4,synthetic
+SYN00334,2022-11-30,South Africa,Pakistan,Gaddafi Stadium,Pakistan,field,Pakistan,176,3,182,5,synthetic
+SYN00335,2022-12-01,Pakistan,New Zealand,Eden Park,Pakistan,field,New Zealand,150,10,154,7,synthetic
+SYN00336,2022-12-02,New Zealand,Australia,Kensington Oval,New Zealand,bat,Australia,188,7,189,6,synthetic
+SYN00337,2022-12-03,Australia,New Zealand,Melbourne Cricket Ground,New Zealand,field,Australia,170,7,149,5,synthetic
+SYN00338,2022-12-04,India,Pakistan,Melbourne Cricket Ground,Pakistan,field,India,138,8,126,6,synthetic
+SYN00339,2022-12-05,Pakistan,New Zealand,Eden Park,Pakistan,field,New Zealand,112,8,159,7,synthetic
+SYN00340,2022-12-06,Sri Lanka,South Africa,Melbourne Cricket Ground,Sri Lanka,field,South Africa,172,4,186,5,synthetic
+SYN00341,2022-12-07,South Africa,Sri Lanka,Kensington Oval,South Africa,field,South Africa,153,3,149,9,synthetic
+SYN00342,2022-12-08,West Indies,South Africa,Gaddafi Stadium,South Africa,field,South Africa,188,5,190,3,synthetic
+SYN00343,2022-12-09,West Indies,Sri Lanka,Lord's,Sri Lanka,field,Sri Lanka,144,7,145,4,synthetic
+SYN00344,2022-12-10,New Zealand,England,Melbourne Cricket Ground,England,field,New Zealand,180,8,156,6,synthetic
+SYN00345,2022-12-11,West Indies,Australia,Eden Park,Australia,bat,Australia,162,6,192,8,synthetic
+SYN00346,2022-12-12,Sri Lanka,Australia,Newlands,Australia,field,Australia,151,7,157,6,synthetic
+SYN00347,2022-12-13,Australia,Pakistan,Eden Park,Pakistan,bat,Pakistan,153,7,169,6,synthetic
+SYN00348,2022-12-14,Pakistan,Australia,Kensington Oval,Pakistan,field,Australia,135,10,148,3,synthetic
+SYN00349,2022-12-15,Australia,West Indies,Lord's,West Indies,field,Australia,176,7,169,8,synthetic
+SYN00350,2022-12-16,England,New Zealand,Eden Park,New Zealand,field,New Zealand,169,5,175,5,synthetic
+SYN00351,2022-12-17,New Zealand,Pakistan,Lord's,New Zealand,bat,New Zealand,176,4,159,8,synthetic
+SYN00352,2022-12-18,Pakistan,South Africa,Wankhede Stadium,South Africa,field,South Africa,161,6,166,3,synthetic
+SYN00353,2022-12-19,New Zealand,Sri Lanka,Melbourne Cricket Ground,Sri Lanka,bat,Sri Lanka,102,7,157,7,synthetic
+SYN00354,2022-12-20,India,England,Eden Park,India,bat,England,175,4,180,3,synthetic
+SYN00355,2022-12-21,South Africa,India,Kensington Oval,India,field,India,156,3,159,4,synthetic
+SYN00356,2022-12-22,Australia,England,Melbourne Cricket Ground,England,field,England,130,4,134,8,synthetic
+SYN00357,2022-12-23,England,West Indies,Gaddafi Stadium,West Indies,field,England,132,2,114,6,synthetic
+SYN00358,2022-12-24,England,India,Melbourne Cricket Ground,India,field,England,188,6,173,6,synthetic
+SYN00359,2022-12-25,India,New Zealand,R. Premadasa Stadium,New Zealand,bat,India,196,2,193,7,synthetic
+SYN00360,2022-12-26,South Africa,Pakistan,Melbourne Cricket Ground,Pakistan,bat,Pakistan,150,10,168,5,synthetic
+SYN00361,2022-12-27,South Africa,Australia,R. Premadasa Stadium,South Africa,field,Australia,170,7,182,5,synthetic
+SYN00362,2022-12-28,South Africa,West Indies,Kensington Oval,South Africa,field,South Africa,177,5,172,9,synthetic
+SYN00363,2022-12-29,India,Sri Lanka,Newlands,India,bat,India,136,4,132,10,synthetic
+SYN00364,2022-12-30,India,West Indies,Lord's,India,bat,India,140,5,105,5,synthetic
+SYN00365,2022-12-31,Sri Lanka,Pakistan,Wankhede Stadium,Pakistan,bat,Pakistan,146,10,177,5,synthetic
+SYN00366,2023-01-01,India,Australia,Kensington Oval,Australia,field,India,172,6,167,7,synthetic
+SYN00367,2023-01-02,Australia,Sri Lanka,R. Premadasa Stadium,Sri Lanka,bat,Australia,171,6,168,6,synthetic
+SYN00368,2023-01-03,England,Australia,Gaddafi Stadium,England,bat,Australia,178,9,183,5,synthetic
+SYN00369,2023-01-04,New Zealand,West Indies,R. Premadasa Stadium,New Zealand,field,New Zealand,135,5,130,8,synthetic
+SYN00370,2023-01-05,India,South Africa,Melbourne Cricket Ground,India,field,India,176,4,171,5,synthetic
+SYN00371,2023-01-06,Sri Lanka,New Zealand,Wankhede Stadium,Sri Lanka,field,New Zealand,137,7,152,3,synthetic
+SYN00372,2023-01-07,New Zealand,Australia,Melbourne Cricket Ground,New Zealand,field,Australia,155,8,185,5,synthetic
+SYN00373,2023-01-08,West Indies,Pakistan,Lord's,West Indies,bat,Pakistan,141,9,145,6,synthetic
+SYN00374,2023-01-09,Sri Lanka,England,Newlands,England,field,Sri Lanka,171,3,139,7,synthetic
+SYN00375,2023-01-10,South Africa,England,Gaddafi Stadium,South Africa,bat,South Africa,173,4,158,10,synthetic
+SYN00376,2023-01-11,West Indies,England,R. Premadasa Stadium,West Indies,field,England,154,7,176,7,synthetic
+SYN00377,2023-01-12,Australia,India,Newlands,Australia,field,India,149,8,175,4,synthetic
+SYN00378,2023-01-13,Pakistan,Sri Lanka,Kensington Oval,Pakistan,field,Pakistan,170,4,164,5,synthetic
+SYN00379,2023-01-14,West Indies,New Zealand,R. Premadasa Stadium,West Indies,field,West Indies,215,3,213,5,synthetic
+SYN00380,2023-01-15,England,Sri Lanka,Gaddafi Stadium,England,field,England,137,6,134,9,synthetic
+SYN00381,2023-01-16,Sri Lanka,West Indies,Eden Park,Sri Lanka,field,West Indies,178,4,188,5,synthetic
+SYN00382,2023-01-17,Pakistan,England,Newlands,Pakistan,bat,Pakistan,146,7,136,9,synthetic
+SYN00383,2023-01-18,Australia,South Africa,Newlands,Australia,bat,South Africa,189,7,194,6,synthetic
+SYN00384,2023-01-19,New Zealand,India,R. Premadasa Stadium,India,field,India,123,6,128,5,synthetic
+SYN00385,2023-01-20,West Indies,India,R. Premadasa Stadium,India,field,India,127,6,133,2,synthetic
+SYN00386,2023-01-21,England,Pakistan,Gaddafi Stadium,Pakistan,field,England,210,6,180,9,synthetic
+SYN00387,2023-01-22,South Africa,New Zealand,Wankhede Stadium,New Zealand,field,New Zealand,176,6,181,4,synthetic
+SYN00388,2023-01-23,Sri Lanka,India,Lord's,India,field,India,129,3,130,5,synthetic
+SYN00389,2023-01-24,Pakistan,West Indies,Lord's,Pakistan,bat,West Indies,133,10,135,6,synthetic
+SYN00390,2023-01-25,Pakistan,India,Melbourne Cricket Ground,Pakistan,field,India,166,5,172,5,synthetic
+SYN00391,2023-01-26,England,South Africa,R. Premadasa Stadium,England,field,England,154,2,149,3,synthetic
+SYN00392,2023-01-27,New Zealand,South Africa,Eden Park,South Africa,bat,New Zealand,160,3,156,4,synthetic
+SYN00393,2023-01-28,New Zealand,West Indies,Melbourne Cricket Ground,West Indies,field,New Zealand,161,7,146,8,synthetic
+SYN00394,2023-01-29,Australia,New Zealand,Gaddafi Stadium,New Zealand,field,Australia,158,7,135,8,synthetic
+SYN00395,2023-01-30,Sri Lanka,Australia,Eden Park,Australia,bat,Australia,166,8,186,8,synthetic
+SYN00396,2023-01-31,New Zealand,South Africa,Gaddafi Stadium,South Africa,field,South Africa,166,6,169,4,synthetic
+SYN00397,2023-02-01,India,West Indies,Newlands,India,bat,India,133,5,130,10,synthetic
+SYN00398,2023-02-02,Sri Lanka,India,R. Premadasa Stadium,Sri Lanka,field,India,182,9,192,5,synthetic
+SYN00399,2023-02-03,South Africa,New Zealand,R. Premadasa Stadium,New Zealand,bat,New Zealand,151,8,163,3,synthetic
+SYN00400,2023-02-04,New Zealand,Pakistan,Kensington Oval,New Zealand,field,New Zealand,176,4,171,8,synthetic
+SYN00401,2023-02-05,Sri Lanka,Pakistan,Gaddafi Stadium,Sri Lanka,field,Sri Lanka,155,5,152,4,synthetic
+SYN00402,2023-02-06,Pakistan,Sri Lanka,Wankhede Stadium,Pakistan,bat,Pakistan,156,8,143,10,synthetic
+SYN00403,2023-02-07,South Africa,England,Melbourne Cricket Ground,South Africa,field,England,165,6,180,3,synthetic
+SYN00404,2023-02-08,England,Sri Lanka,R. Premadasa Stadium,Sri Lanka,field,England,155,7,122,6,synthetic
+SYN00405,2023-02-09,South Africa,West Indies,Wankhede Stadium,South Africa,field,South Africa,164,7,162,5,synthetic
+SYN00406,2023-02-10,West Indies,Pakistan,Newlands,West Indies,bat,Pakistan,143,8,148,7,synthetic
+SYN00407,2023-02-11,India,Pakistan,Lord's,India,field,India,180,2,175,6,synthetic
+SYN00408,2023-02-12,West Indies,India,Eden Park,India,field,India,200,7,206,6,synthetic
+SYN00409,2023-02-13,Australia,Sri Lanka,Wankhede Stadium,Australia,bat,Australia,183,7,129,4,synthetic
+SYN00410,2023-02-14,Sri Lanka,South Africa,Lord's,South Africa,field,Sri Lanka,169,5,164,8,synthetic
+SYN00411,2023-02-15,England,West Indies,Lord's,England,field,England,165,2,161,4,synthetic
+SYN00412,2023-02-16,England,New Zealand,Kensington Oval,England,bat,New Zealand,205,7,206,6,synthetic
+SYN00413,2023-02-17,England,Australia,Newlands,England,bat,England,131,7,125,5,synthetic
+SYN00414,2023-02-18,India,South Africa,Newlands,India,field,India,185,3,181,5,synthetic
+SYN00415,2023-02-19,Australia,India,Melbourne Cricket Ground,India,field,India,131,2,135,3,synthetic
+SYN00416,2023-02-20,South Africa,Pakistan,Eden Park,South Africa,field,Pakistan,137,5,163,7,synthetic
+SYN00417,2023-02-21,West Indies,Australia,Melbourne Cricket Ground,West Indies,field,Australia,142,10,146,4,synthetic
+SYN00418,2023-02-22,India,New Zealand,Lord's,New Zealand,field,India,163,5,143,8,synthetic
+SYN00419,2023-02-23,South Africa,Sri Lanka,Newlands,South Africa,field,South Africa,172,2,170,7,synthetic
+SYN00420,2023-02-24,India,Australia,Gaddafi Stadium,Australia,field,Australia,202,7,204,5,synthetic
+SYN00421,2023-02-25,Australia,South Africa,Newlands,Australia,bat,Australia,165,5,157,10,synthetic
+SYN00422,2023-02-26,New Zealand,India,Newlands,New Zealand,bat,India,154,5,159,4,synthetic
+SYN00423,2023-02-27,West Indies,New Zealand,Eden Park,New Zealand,field,New Zealand,154,8,156,3,synthetic
+SYN00424,2023-02-28,New Zealand,Sri Lanka,Eden Park,New Zealand,bat,New Zealand,174,6,166,6,synthetic
+SYN00425,2023-03-01,Australia,England,R. Premadasa Stadium,Australia,bat,England,162,9,167,5,synthetic
+SYN00426,2023-03-02,Sri Lanka,West Indies,Kensington Oval,West Indies,bat,Sri Lanka,169,4,166,6,synthetic
+SYN00427,2023-03-03,India,Sri Lanka,Eden Park,Sri Lanka,field,India,200,8,193,6,synthetic
+SYN00428,2023-03-04,Pakistan,Australia,Lord's,Australia,bat,Pakistan,196,2,192,6,synthetic
+SYN00429,2023-03-05,India,England,R. Premadasa Stadium,India,field,India,187,4,185,5,synthetic
+SYN00430,2023-03-06,West Indies,South Africa,Newlands,South Africa,field,South Africa,154,7,155,5,synthetic
+SYN00431,2023-03-07,West Indies,Sri Lanka,Gaddafi Stadium,West Indies,field,Sri Lanka,148,5,170,6,synthetic
+SYN00432,2023-03-08,Pakistan,South Africa,Newlands,South Africa,field,South Africa,150,6,152,2,synthetic
+SYN00433,2023-03-09,Pakistan,West Indies,Newlands,Pakistan,field,West Indies,137,7,153,10,synthetic
+SYN00434,2023-03-10,Sri Lanka,England,Melbourne Cricket Ground,England,field,England,130,6,134,3,synthetic
+SYN00435,2023-03-11,Pakistan,New Zealand,Eden Park,New Zealand,field,Pakistan,185,5,160,9,synthetic
+SYN00436,2023-03-12,New Zealand,England,Wankhede Stadium,New Zealand,bat,England,200,5,203,3,synthetic
+SYN00437,2023-03-13,England,South Africa,Gaddafi Stadium,South Africa,field,England,175,2,161,7,synthetic
+SYN00438,2023-03-14,South Africa,Australia,Gaddafi Stadium,South Africa,bat,Australia,160,5,161,6,synthetic
+SYN00439,2023-03-15,West Indies,England,Newlands,England,bat,England,161,9,164,5,synthetic
+SYN00440,2023-03-16,England,India,Kensington Oval,India,field,India,178,3,179,5,synthetic
+SYN00441,2023-03-17,New Zealand,Australia,Newlands,Australia,field,New Zealand,160,5,106,9,synthetic
+SYN00442,2023-03-18,Sri Lanka,New Zealand,R. Premadasa Stadium,Sri Lanka,bat,New Zealand,158,7,162,5,synthetic
+SYN00443,2023-03-19,South Africa,India,Eden Park,India,field,South Africa,161,5,151,6,synthetic
+SYN00444,2023-03-20,Australia,West Indies,Gaddafi Stadium,Australia,field,Australia,160,3,155,6,synthetic
+SYN00445,2023-03-21,England,Pakistan,Gaddafi Stadium,Pakistan,field,England,155,5,113,6,synthetic
+SYN00446,2023-03-22,Pakistan,England,Newlands,Pakistan,field,England,152,10,154,9,synthetic
+SYN00447,2023-03-23,Pakistan,India,Eden Park,Pakistan,bat,India,182,4,184,3,synthetic
+SYN00448,2023-03-24,Australia,Pakistan,Melbourne Cricket Ground,Australia,bat,Australia,137,4,112,7,synthetic
+SYN00449,2023-03-25,Australia,India,Newlands,Australia,bat,India,170,8,172,6,synthetic
+SYN00450,2023-03-26,Sri Lanka,West Indies,Wankhede Stadium,West Indies,bat,West Indies,124,4,147,5,synthetic
+SYN00451,2023-03-27,Pakistan,New Zealand,Kensington Oval,Pakistan,bat,Pakistan,213,6,191,7,synthetic
+SYN00452,2023-03-28,England,Australia,Kensington Oval,England,bat,England,179,4,140,8,synthetic
+SYN00453,2023-03-29,England,Sri Lanka,Melbourne Cricket Ground,England,bat,England,123,7,61,7,synthetic
+SYN00454,2023-03-30,India,Australia,Melbourne Cricket Ground,India,field,Australia,138,7,163,7,synthetic
+SYN00455,2023-03-31,Australia,West Indies,Eden Park,West Indies,bat,Australia,167,9,161,9,synthetic
+SYN00456,2023-04-01,India,South Africa,Newlands,South Africa,field,India,207,5,176,9,synthetic
+SYN00457,2023-04-02,England,New Zealand,Wankhede Stadium,England,field,England,182,4,181,6,synthetic
+SYN00458,2023-04-03,New Zealand,Australia,Newlands,Australia,field,Australia,140,6,143,5,synthetic
+SYN00459,2023-04-04,New Zealand,England,Kensington Oval,New Zealand,field,England,126,9,159,7,synthetic
+SYN00460,2023-04-05,South Africa,New Zealand,R. Premadasa Stadium,New Zealand,field,New Zealand,142,8,144,3,synthetic
+SYN00461,2023-04-06,Sri Lanka,India,Eden Park,Sri Lanka,field,Sri Lanka,192,5,186,4,synthetic
+SYN00462,2023-04-07,West Indies,Sri Lanka,Newlands,West Indies,field,West Indies,153,3,148,5,synthetic
+SYN00463,2023-04-08,West Indies,England,Melbourne Cricket Ground,West Indies,bat,England,141,9,142,3,synthetic
+SYN00464,2023-04-09,Australia,New Zealand,Newlands,Australia,field,Australia,142,5,137,8,synthetic
+SYN00465,2023-04-10,India,England,Lord's,India,bat,England,165,5,170,3,synthetic
+SYN00466,2023-04-11,Australia,England,Eden Park,England,field,Australia,229,7,228,8,synthetic
+SYN00467,2023-04-12,Australia,Sri Lanka,Kensington Oval,Sri Lanka,field,Australia,172,7,161,10,synthetic
+SYN00468,2023-04-13,West Indies,South Africa,R. Premadasa Stadium,West Indies,field,West Indies,140,6,136,5,synthetic
+SYN00469,2023-04-14,New Zealand,Pakistan,R. Premadasa Stadium,Pakistan,bat,Pakistan,89,6,123,9,synthetic
+SYN00470,2023-04-15,India,Pakistan,Eden Park,India,field,Pakistan,113,7,129,8,synthetic
+SYN00471,2023-04-16,India,West Indies,Gaddafi Stadium,India,bat,India,195,6,189,5,synthetic
+SYN00472,2023-04-17,West Indies,New Zealand,Lord's,West Indies,bat,New Zealand,144,10,148,5,synthetic
+SYN00473,2023-04-18,South Africa,Australia,Melbourne Cricket Ground,Australia,bat,Australia,160,5,175,6,synthetic
+SYN00474,2023-04-19,Pakistan,Sri Lanka,Melbourne Cricket Ground,Pakistan,field,Sri Lanka,91,5,106,3,synthetic
+SYN00475,2023-04-20,South Africa,England,Gaddafi Stadium,South Africa,field,South Africa,199,4,193,5,synthetic
+SYN00476,2023-04-21,Sri Lanka,England,R. Premadasa Stadium,England,bat,Sri Lanka,189,2,188,4,synthetic
+SYN00477,2023-04-22,Pakistan,Australia,Eden Park,Pakistan,field,Australia,147,10,158,6,synthetic
+SYN00478,2023-04-23,New Zealand,West Indies,R. Premadasa Stadium,New Zealand,field,New Zealand,147,7,142,3,synthetic
+SYN00479,2023-04-24,Pakistan,West Indies,Melbourne Cricket Ground,Pakistan,field,West Indies,112,10,133,8,synthetic
+SYN00480,2023-04-25,West Indies,Australia,Eden Park,Australia,field,Australia,147,7,152,2,synthetic
+SYN00481,2023-04-26,South Africa,India,R. Premadasa Stadium,India,field,South Africa,161,7,106,7,synthetic
+SYN00482,2023-04-27,South Africa,Sri Lanka,Gaddafi Stadium,South Africa,field,South Africa,125,3,119,6,synthetic
+SYN00483,2023-04-28,India,New Zealand,Eden Park,India,field,India,210,4,209,6,synthetic
+SYN00484,2023-04-29,Sri Lanka,Pakistan,Gaddafi Stadium,Pakistan,field,Pakistan,154,6,159,3,synthetic
+SYN00485,2023-04-30,Pakistan,India,Wankhede Stadium,Pakistan,bat,Pakistan,157,8,132,7,synthetic
+SYN00486,2023-05-01,England,South Africa,Gaddafi Stadium,England,bat,South Africa,216,8,220,5,synthetic
+SYN00487,2023-05-02,Sri Lanka,South Africa,Wankhede Stadium,South Africa,bat,South Africa,161,8,184,6,synthetic
+SYN00488,2023-05-03,England,West Indies,R. Premadasa Stadium,West Indies,field,England,153,9,145,6,synthetic
+SYN00489,2023-05-04,New Zealand,Sri Lanka,Melbourne Cricket Ground,New Zealand,bat,Sri Lanka,170,5,173,2,synthetic
+SYN00490,2023-05-05,West Indies,India,Kensington Oval,India,field,India,188,7,189,3,synthetic
+SYN00491,2023-05-06,Australia,South Africa,Gaddafi Stadium,South Africa,field,Australia,162,6,130,7,synthetic
+SYN00492,2023-05-07,Sri Lanka,New Zealand,Lord's,New Zealand,field,New Zealand,152,6,158,6,synthetic
+SYN00493,2023-05-08,West Indies,Pakistan,Newlands,West Indies,field,West Indies,191,8,189,8,synthetic
+SYN00494,2023-05-09,India,Sri Lanka,Melbourne Cricket Ground,Sri Lanka,field,India,177,4,150,8,synthetic
+SYN00495,2023-05-10,England,India,Melbourne Cricket Ground,India,bat,England,109,5,106,8,synthetic
+SYN00496,2023-05-11,South Africa,Pakistan,Wankhede Stadium,South Africa,field,Pakistan,134,8,182,9,synthetic
+SYN00497,2023-05-12,Australia,Pakistan,Gaddafi Stadium,Pakistan,field,Australia,186,6,162,2,synthetic
+SYN00498,2023-05-13,England,Pakistan,Eden Park,England,field,England,213,6,211,7,synthetic
+SYN00499,2023-05-14,South Africa,West Indies,Eden Park,West Indies,field,West Indies,200,5,205,6,synthetic
+SYN00500,2023-05-15,New Zealand,India,Eden Park,New Zealand,field,India,195,7,198,9,synthetic
+SYN00501,2023-05-16,Pakistan,England,R. Premadasa Stadium,Pakistan,field,Pakistan,178,5,175,8,synthetic
+SYN00502,2023-05-17,Pakistan,South Africa,Kensington Oval,Pakistan,field,South Africa,150,6,165,7,synthetic
+SYN00503,2023-05-18,Sri Lanka,Australia,Melbourne Cricket Ground,Australia,field,Australia,195,5,196,3,synthetic
+SYN00504,2023-05-19,New Zealand,South Africa,Eden Park,South Africa,field,South Africa,242,7,244,4,synthetic
+SYN00505,2023-05-20,Sri Lanka,Pakistan,Wankhede Stadium,Sri Lanka,field,Pakistan,156,5,165,7,synthetic
+SYN00506,2023-05-21,India,Pakistan,Gaddafi Stadium,India,field,India,146,3,140,1,synthetic
+SYN00507,2023-05-22,Sri Lanka,South Africa,Melbourne Cricket Ground,South Africa,field,Sri Lanka,172,6,156,7,synthetic
+SYN00508,2023-05-23,New Zealand,Sri Lanka,Melbourne Cricket Ground,New Zealand,field,New Zealand,175,5,174,7,synthetic
+SYN00509,2023-05-24,Sri Lanka,New Zealand,Gaddafi Stadium,New Zealand,field,Sri Lanka,145,3,133,6,synthetic
+SYN00510,2023-05-25,New Zealand,South Africa,Wankhede Stadium,South Africa,bat,South Africa,192,8,217,5,synthetic
+SYN00511,2023-05-26,Pakistan,Australia,Kensington Oval,Australia,field,Pakistan,135,9,117,6,synthetic
+SYN00512,2023-05-27,South Africa,West Indies,Kensington Oval,South Africa,field,West Indies,117,8,152,5,synthetic
+SYN00513,2023-05-28,England,Pakistan,Wankhede Stadium,England,field,England,175,5,170,8,synthetic
+SYN00514,2023-05-29,Australia,Pakistan,Kensington Oval,Pakistan,field,Australia,187,7,164,6,synthetic
+SYN00515,2023-05-30,Pakistan,Sri Lanka,Kensington Oval,Pakistan,bat,Sri Lanka,145,5,149,6,synthetic
+SYN00516,2023-05-31,England,West Indies,Gaddafi Stadium,West Indies,field,England,160,6,148,9,synthetic
+SYN00517,2023-06-01,Australia,India,R. Premadasa Stadium,Australia,field,India,90,7,155,5,synthetic
+SYN00518,2023-06-02,New Zealand,Pakistan,Eden Park,New Zealand,field,New Zealand,176,4,175,6,synthetic
+SYN00519,2023-06-03,India,Sri Lanka,R. Premadasa Stadium,Sri Lanka,bat,India,163,1,159,4,synthetic
+SYN00520,2023-06-04,West Indies,New Zealand,Lord's,West Indies,bat,West Indies,193,5,174,6,synthetic
+SYN00521,2023-06-05,Sri Lanka,England,Eden Park,England,field,Sri Lanka,207,8,185,9,synthetic
+SYN00522,2023-06-06,Pakistan,South Africa,Gaddafi Stadium,South Africa,bat,South Africa,187,9,214,5,synthetic
+SYN00523,2023-06-07,Pakistan,West Indies,Wankhede Stadium,Pakistan,field,West Indies,154,8,162,8,synthetic
+SYN00524,2023-06-08,South Africa,India,Eden Park,South Africa,field,South Africa,205,0,200,3,synthetic
+SYN00525,2023-06-09,South Africa,Australia,Melbourne Cricket Ground,South Africa,field,South Africa,177,4,173,8,synthetic
+SYN00526,2023-06-10,South Africa,England,Kensington Oval,England,field,England,184,5,187,2,synthetic
+SYN00527,2023-06-11,Sri Lanka,India,Gaddafi Stadium,Sri Lanka,bat,India,164,5,166,4,synthetic
+SYN00528,2023-06-12,New Zealand,England,Lord's,England,field,England,176,4,177,4,synthetic
+SYN00529,2023-06-13,India,England,Melbourne Cricket Ground,England,bat,England,132,4,146,5,synthetic
+SYN00530,2023-06-14,West Indies,India,Lord's,India,field,India,116,5,120,3,synthetic
+SYN00531,2023-06-15,England,India,Melbourne Cricket Ground,India,field,India,127,4,132,4,synthetic
+SYN00532,2023-06-16,Australia,Sri Lanka,Wankhede Stadium,Australia,field,Australia,170,8,168,5,synthetic
+SYN00533,2023-06-17,Australia,New Zealand,Lord's,New Zealand,field,Australia,153,5,139,9,synthetic
+SYN00534,2023-06-18,Australia,England,Newlands,England,field,England,141,5,142,8,synthetic
+SYN00535,2023-06-19,West Indies,South Africa,Eden Park,West Indies,bat,South Africa,145,4,151,6,synthetic
+SYN00536,2023-06-20,Sri Lanka,West Indies,Melbourne Cricket Ground,West Indies,bat,West Indies,147,7,160,5,synthetic
+SYN00537,2023-06-21,India,West Indies,Lord's,West Indies,bat,India,167,3,163,3,synthetic
+SYN00538,2023-06-22,England,Australia,R. Premadasa Stadium,England,field,Australia,172,8,184,7,synthetic
+SYN00539,2023-06-23,West Indies,England,Eden Park,England,bat,England,194,6,205,4,synthetic
+SYN00540,2023-06-24,Australia,West Indies,Wankhede Stadium,Australia,field,Australia,172,5,168,3,synthetic
+SYN00541,2023-06-25,New Zealand,West Indies,Kensington Oval,New Zealand,field,New Zealand,129,7,127,3,synthetic
+SYN00542,2023-06-26,England,South Africa,R. Premadasa Stadium,South Africa,field,England,172,4,121,7,synthetic
+SYN00543,2023-06-27,New Zealand,India,Wankhede Stadium,India,field,New Zealand,154,7,143,6,synthetic
+SYN00544,2023-06-28,West Indies,Australia,Lord's,Australia,bat,Australia,135,7,171,8,synthetic
+SYN00545,2023-06-29,South Africa,Sri Lanka,Newlands,Sri Lanka,field,South Africa,113,7,105,9,synthetic
+SYN00546,2023-06-30,England,Sri Lanka,Lord's,England,bat,England,161,4,148,7,synthetic
+SYN00547,2023-07-01,South Africa,Pakistan,R. Premadasa Stadium,South Africa,field,Pakistan,111,6,136,6,synthetic
+SYN00548,2023-07-02,Australia,South Africa,R. Premadasa Stadium,Australia,field,South Africa,97,7,119,7,synthetic
+SYN00549,2023-07-03,India,South Africa,Lord's,India,bat,South Africa,156,7,158,4,synthetic
+SYN00550,2023-07-04,Sri Lanka,Australia,Newlands,Australia,field,Australia,141,5,142,5,synthetic
+SYN00551,2023-07-05,West Indies,Sri Lanka,Newlands,West Indies,field,Sri Lanka,107,5,136,7,synthetic
+SYN00552,2023-07-06,India,Australia,Lord's,Australia,field,India,148,5,142,6,synthetic
+SYN00553,2023-07-07,New Zealand,Australia,Gaddafi Stadium,Australia,field,Australia,115,6,120,6,synthetic
+SYN00554,2023-07-08,India,New Zealand,Lord's,India,field,India,161,2,160,8,synthetic
+SYN00555,2023-07-09,England,New Zealand,Lord's,England,field,New Zealand,141,4,163,5,synthetic
+SYN00556,2023-07-10,South Africa,New Zealand,Lord's,New Zealand,field,New Zealand,162,8,168,5,synthetic
+SYN00557,2023-07-11,Pakistan,India,Wankhede Stadium,India,field,India,164,5,165,5,synthetic
+SYN00558,2023-07-12,Pakistan,England,Newlands,Pakistan,bat,England,147,5,150,1,synthetic
+SYN00559,2023-07-13,West Indies,Pakistan,Kensington Oval,Pakistan,bat,Pakistan,151,8,164,9,synthetic
+SYN00560,2023-07-14,Pakistan,New Zealand,Newlands,Pakistan,field,Pakistan,142,5,138,5,synthetic
+SYN00561,2023-07-15,New Zealand,Pakistan,Kensington Oval,New Zealand,bat,New Zealand,152,3,93,8,synthetic
+SYN00562,2023-07-16,Sri Lanka,England,Newlands,Sri Lanka,field,England,180,6,187,10,synthetic
+SYN00563,2023-07-17,India,New Zealand,Eden Park,India,field,India,166,4,160,8,synthetic
+SYN00564,2023-07-18,Pakistan,New Zealand,R. Premadasa Stadium,Pakistan,field,New Zealand,148,7,173,9,synthetic
+SYN00565,2023-07-19,Sri Lanka,Australia,Eden Park,Australia,field,Australia,164,6,166,4,synthetic
+SYN00566,2023-07-20,England,India,Newlands,England,bat,England,159,4,142,5,synthetic
+SYN00567,2023-07-21,South Africa,India,Lord's,South Africa,field,India,144,7,158,7,synthetic
+SYN00568,2023-07-22,Pakistan,Australia,Gaddafi Stadium,Pakistan,bat,Australia,151,6,155,7,synthetic
+SYN00569,2023-07-23,Australia,Pakistan,R. Premadasa Stadium,Australia,bat,Australia,140,5,116,4,synthetic
+SYN00570,2023-07-24,Sri Lanka,India,Eden Park,Sri Lanka,field,India,168,9,170,5,synthetic
+SYN00571,2023-07-25,India,West Indies,Eden Park,West Indies,bat,India,153,4,147,10,synthetic
+SYN00572,2023-07-26,South Africa,Australia,R. Premadasa Stadium,South Africa,field,Australia,127,8,143,6,synthetic
+SYN00573,2023-07-27,England,Sri Lanka,Kensington Oval,England,field,England,178,5,173,6,synthetic
+SYN00574,2023-07-28,New Zealand,Sri Lanka,Lord's,Sri Lanka,bat,New Zealand,177,2,176,6,synthetic
+SYN00575,2023-07-29,India,Sri Lanka,Lord's,India,field,India,133,4,132,4,synthetic
+SYN00576,2023-07-30,South Africa,England,Lord's,South Africa,field,England,164,8,175,7,synthetic
+SYN00577,2023-07-31,Pakistan,England,Gaddafi Stadium,England,field,England,181,8,184,1,synthetic
+SYN00578,2023-08-01,Sri Lanka,West Indies,R. Premadasa Stadium,West Indies,bat,West Indies,126,9,148,6,synthetic
+SYN00579,2023-08-02,New Zealand,West Indies,Gaddafi Stadium,West Indies,field,New Zealand,173,4,152,7,synthetic
+SYN00580,2023-08-03,South Africa,New Zealand,Eden Park,New Zealand,field,New Zealand,202,6,205,4,synthetic
+SYN00581,2023-08-04,New Zealand,Australia,Kensington Oval,Australia,bat,New Zealand,205,7,201,9,synthetic
+SYN00582,2023-08-05,Pakistan,South Africa,Melbourne Cricket Ground,Pakistan,bat,Pakistan,124,6,100,8,synthetic
+SYN00583,2023-08-06,New Zealand,South Africa,Lord's,South Africa,field,South Africa,120,7,124,6,synthetic
+SYN00584,2023-08-07,England,Pakistan,Eden Park,England,bat,England,145,6,134,10,synthetic
+SYN00585,2023-08-08,England,Australia,Lord's,Australia,field,Australia,171,7,174,3,synthetic
+SYN00586,2023-08-09,West Indies,Australia,Newlands,West Indies,bat,West Indies,126,7,61,10,synthetic
+SYN00587,2023-08-10,Australia,Sri Lanka,R. Premadasa Stadium,Sri Lanka,field,Australia,144,5,111,10,synthetic
+SYN00588,2023-08-11,Pakistan,India,Wankhede Stadium,Pakistan,bat,India,186,4,189,5,synthetic
+SYN00589,2023-08-12,West Indies,New Zealand,Melbourne Cricket Ground,New Zealand,field,New Zealand,180,3,181,5,synthetic
+SYN00590,2023-08-13,Australia,New Zealand,Melbourne Cricket Ground,New Zealand,field,Australia,165,9,106,8,synthetic
+SYN00591,2023-08-14,Sri Lanka,New Zealand,Newlands,New Zealand,field,Sri Lanka,186,8,180,9,synthetic
+SYN00592,2023-08-15,India,England,Lord's,India,bat,India,171,2,155,5,synthetic
+SYN00593,2023-08-16,South Africa,Sri Lanka,R. Premadasa Stadium,South Africa,bat,South Africa,162,8,154,9,synthetic
+SYN00594,2023-08-17,England,New Zealand,Kensington Oval,England,bat,New Zealand,157,6,161,4,synthetic
+SYN00595,2023-08-18,South Africa,Pakistan,Gaddafi Stadium,Pakistan,field,Pakistan,174,9,178,6,synthetic
+SYN00596,2023-08-19,South Africa,West Indies,Melbourne Cricket Ground,South Africa,field,South Africa,174,7,171,6,synthetic
+SYN00597,2023-08-20,England,West Indies,R. Premadasa Stadium,England,field,England,130,5,128,5,synthetic
+SYN00598,2023-08-21,West Indies,India,Gaddafi Stadium,West Indies,field,India,117,5,164,6,synthetic
+SYN00599,2023-08-22,England,South Africa,Eden Park,South Africa,field,England,210,3,173,9,synthetic
+SYN00600,2023-08-23,Sri Lanka,Pakistan,Eden Park,Pakistan,bat,Pakistan,139,9,145,6,synthetic
+SYN00601,2023-08-24,Australia,India,Eden Park,India,field,India,146,7,147,4,synthetic
+SYN00602,2023-08-25,New Zealand,England,Eden Park,England,field,England,179,7,180,3,synthetic
+SYN00603,2023-08-26,New Zealand,India,Lord's,India,field,India,128,7,134,6,synthetic
+SYN00604,2023-08-27,India,South Africa,Kensington Oval,South Africa,field,South Africa,180,7,184,4,synthetic
+SYN00605,2023-08-28,Pakistan,Sri Lanka,Lord's,Sri Lanka,field,Sri Lanka,147,3,152,7,synthetic
+SYN00606,2023-08-29,West Indies,Sri Lanka,R. Premadasa Stadium,Sri Lanka,field,Sri Lanka,124,5,127,6,synthetic
+SYN00607,2023-08-30,India,Australia,Newlands,India,bat,Australia,175,6,181,4,synthetic
+SYN00608,2023-08-31,West Indies,Pakistan,Newlands,Pakistan,field,Pakistan,158,8,164,4,synthetic
+SYN00609,2023-09-01,Australia,West Indies,Eden Park,West Indies,field,Australia,165,4,139,6,synthetic
+SYN00610,2023-09-02,West Indies,England,R. Premadasa Stadium,West Indies,bat,England,160,7,166,3,synthetic
+SYN00611,2023-09-03,Pakistan,West Indies,Newlands,West Indies,field,Pakistan,153,5,124,6,synthetic
+SYN00612,2023-09-04,India,Pakistan,Eden Park,Pakistan,field,India,140,4,131,6,synthetic
+SYN00613,2023-09-05,Australia,England,Lord's,Australia,field,England,170,7,174,6,synthetic
+SYN00614,2023-09-06,Australia,South Africa,Wankhede Stadium,Australia,bat,Australia,160,7,134,9,synthetic
+SYN00615,2023-09-07,Sri Lanka,South Africa,Melbourne Cricket Ground,Sri Lanka,bat,Sri Lanka,148,6,139,7,synthetic
+SYN00616,2023-09-08,West Indies,South Africa,Melbourne Cricket Ground,South Africa,bat,South Africa,110,8,115,7,synthetic
+SYN00617,2023-09-09,Australia,India,Kensington Oval,India,field,Australia,205,8,184,9,synthetic
+SYN00618,2023-09-10,Sri Lanka,Pakistan,Melbourne Cricket Ground,Pakistan,field,Pakistan,158,6,159,5,synthetic
+SYN00619,2023-09-11,Sri Lanka,South Africa,Melbourne Cricket Ground,South Africa,bat,Sri Lanka,176,5,172,4,synthetic
+SYN00620,2023-09-12,Pakistan,South Africa,Wankhede Stadium,Pakistan,field,South Africa,193,9,197,5,synthetic
+SYN00621,2023-09-13,West Indies,England,Wankhede Stadium,England,field,England,189,7,194,5,synthetic
+SYN00622,2023-09-14,South Africa,Pakistan,Melbourne Cricket Ground,Pakistan,field,Pakistan,149,7,154,3,synthetic
+SYN00623,2023-09-15,England,South Africa,Kensington Oval,South Africa,bat,South Africa,159,8,173,7,synthetic
+SYN00624,2023-09-16,West Indies,India,Kensington Oval,India,bat,India,179,8,184,6,synthetic
+SYN00625,2023-09-17,India,Sri Lanka,Melbourne Cricket Ground,India,bat,India,155,9,126,7,synthetic
+SYN00626,2023-09-18,New Zealand,Sri Lanka,Kensington Oval,New Zealand,bat,New Zealand,173,7,170,10,synthetic
+SYN00627,2023-09-19,South Africa,Australia,R. Premadasa Stadium,South Africa,bat,Australia,165,9,171,1,synthetic
+SYN00628,2023-09-20,Australia,New Zealand,Gaddafi Stadium,Australia,bat,New Zealand,126,7,128,5,synthetic
+SYN00629,2023-09-21,England,Australia,Melbourne Cricket Ground,Australia,field,England,200,8,192,8,synthetic
+SYN00630,2023-09-22,New Zealand,England,Gaddafi Stadium,England,bat,England,162,8,164,6,synthetic
+SYN00631,2023-09-23,India,Australia,R. Premadasa Stadium,Australia,bat,India,165,4,161,8,synthetic
+SYN00632,2023-09-24,New Zealand,West Indies,Gaddafi Stadium,West Indies,field,New Zealand,166,7,149,7,synthetic
+SYN00633,2023-09-25,Sri Lanka,England,Gaddafi Stadium,England,bat,England,143,6,198,5,synthetic
+SYN00634,2023-09-26,New Zealand,South Africa,Lord's,South Africa,bat,New Zealand,180,4,175,4,synthetic
+SYN00635,2023-09-27,England,New Zealand,Melbourne Cricket Ground,New Zealand,bat,England,170,3,165,5,synthetic
+SYN00636,2023-09-28,West Indies,Australia,Kensington Oval,Australia,field,West Indies,154,4,134,8,synthetic
+SYN00637,2023-09-29,India,Pakistan,Wankhede Stadium,Pakistan,bat,India,185,4,179,10,synthetic
+SYN00638,2023-09-30,South Africa,England,R. Premadasa Stadium,England,field,England,154,7,156,5,synthetic
+SYN00639,2023-10-01,Sri Lanka,West Indies,Eden Park,West Indies,field,West Indies,165,8,168,1,synthetic
+SYN00640,2023-10-02,West Indies,South Africa,R. Premadasa Stadium,West Indies,field,South Africa,88,9,115,7,synthetic
+SYN00641,2023-10-03,Australia,England,Melbourne Cricket Ground,Australia,bat,Australia,175,8,173,6,synthetic
+SYN00642,2023-10-04,Australia,Pakistan,Melbourne Cricket Ground,Australia,field,Australia,182,5,180,4,synthetic
+SYN00643,2023-10-05,South Africa,India,Newlands,India,field,South Africa,206,7,196,7,synthetic
+SYN00644,2023-10-06,Sri Lanka,Australia,Gaddafi Stadium,Sri Lanka,bat,Australia,167,8,171,4,synthetic
+SYN00645,2023-10-07,India,New Zealand,Lord's,New Zealand,field,India,174,8,164,5,synthetic
+SYN00646,2023-10-08,England,Pakistan,Kensington Oval,England,field,Pakistan,163,9,172,4,synthetic
+SYN00647,2023-10-09,Pakistan,England,Lord's,England,field,Pakistan,167,10,148,8,synthetic
+SYN00648,2023-10-10,South Africa,West Indies,Kensington Oval,West Indies,bat,South Africa,153,3,149,5,synthetic
+SYN00649,2023-10-11,Pakistan,Sri Lanka,Eden Park,Pakistan,field,Pakistan,187,6,185,7,synthetic
+SYN00650,2023-10-12,Australia,South Africa,Eden Park,South Africa,field,Australia,193,5,188,7,synthetic
+SYN00651,2023-10-13,Pakistan,Australia,Wankhede Stadium,Australia,field,Pakistan,163,5,157,8,synthetic
+SYN00652,2023-10-14,West Indies,New Zealand,Eden Park,West Indies,field,New Zealand,164,7,168,6,synthetic
+SYN00653,2023-10-15,Pakistan,West Indies,Wankhede Stadium,West Indies,field,Pakistan,198,9,173,9,synthetic
+SYN00654,2023-10-16,Australia,Sri Lanka,Newlands,Sri Lanka,field,Sri Lanka,159,7,162,4,synthetic
+SYN00655,2023-10-17,New Zealand,Pakistan,R. Premadasa Stadium,Pakistan,bat,Pakistan,116,7,126,7,synthetic
+SYN00656,2023-10-18,Pakistan,New Zealand,Kensington Oval,New Zealand,bat,New Zealand,205,9,222,6,synthetic
+SYN00657,2023-10-19,Australia,West Indies,Kensington Oval,Australia,bat,West Indies,199,5,204,4,synthetic
+SYN00658,2023-10-20,England,India,Melbourne Cricket Ground,England,bat,England,180,6,150,10,synthetic
+SYN00659,2023-10-21,New Zealand,Australia,R. Premadasa Stadium,Australia,bat,New Zealand,200,5,194,7,synthetic
+SYN00660,2023-10-22,India,West Indies,R. Premadasa Stadium,India,bat,India,202,6,185,9,synthetic
+SYN00661,2023-10-23,India,England,Wankhede Stadium,England,field,India,179,7,158,8,synthetic
+SYN00662,2023-10-24,West Indies,Pakistan,Kensington Oval,West Indies,field,West Indies,230,3,225,4,synthetic
+SYN00663,2023-10-25,Sri Lanka,New Zealand,Melbourne Cricket Ground,New Zealand,bat,Sri Lanka,177,4,176,5,synthetic
+SYN00664,2023-10-26,Pakistan,India,Gaddafi Stadium,India,field,India,183,6,184,1,synthetic
+SYN00665,2023-10-27,India,South Africa,Newlands,South Africa,bat,India,114,3,113,8,synthetic
+SYN00666,2023-10-28,New Zealand,India,Wankhede Stadium,New Zealand,bat,India,135,7,136,5,synthetic
+SYN00667,2023-10-29,England,Sri Lanka,Gaddafi Stadium,Sri Lanka,field,Sri Lanka,171,3,175,7,synthetic
+SYN00668,2023-10-30,England,West Indies,Wankhede Stadium,England,field,England,167,5,165,6,synthetic
+SYN00669,2023-10-31,Sri Lanka,India,Kensington Oval,Sri Lanka,field,India,165,5,175,5,synthetic
+SYN00670,2023-11-01,South Africa,New Zealand,R. Premadasa Stadium,New Zealand,field,New Zealand,97,7,98,4,synthetic
+SYN00671,2023-11-02,South Africa,Sri Lanka,Lord's,Sri Lanka,field,South Africa,186,6,173,5,synthetic
+SYN00672,2023-11-03,West Indies,Sri Lanka,R. Premadasa Stadium,West Indies,field,Sri Lanka,125,2,155,6,synthetic
+SYN00673,2023-11-04,England,Pakistan,R. Premadasa Stadium,Pakistan,bat,England,161,6,157,3,synthetic
+SYN00674,2023-11-05,Australia,Pakistan,Eden Park,Australia,bat,Australia,153,8,138,5,synthetic
+SYN00675,2023-11-06,West Indies,England,Wankhede Stadium,England,field,England,178,6,181,3,synthetic
+SYN00676,2023-11-07,New Zealand,India,R. Premadasa Stadium,New Zealand,bat,New Zealand,183,7,170,7,synthetic
+SYN00677,2023-11-08,England,Sri Lanka,Newlands,Sri Lanka,field,England,162,4,157,7,synthetic
+SYN00678,2023-11-09,West Indies,Sri Lanka,Kensington Oval,West Indies,field,West Indies,151,8,145,5,synthetic
+SYN00679,2023-11-10,England,India,Eden Park,England,field,England,178,4,174,4,synthetic
+SYN00680,2023-11-11,England,New Zealand,Wankhede Stadium,England,field,England,190,6,188,9,synthetic
+SYN00681,2023-11-12,England,South Africa,Melbourne Cricket Ground,England,field,England,134,5,129,7,synthetic
+SYN00682,2023-11-13,Pakistan,Sri Lanka,Newlands,Sri Lanka,field,Pakistan,202,3,194,8,synthetic
+SYN00683,2023-11-14,New Zealand,South Africa,R. Premadasa Stadium,New Zealand,field,New Zealand,171,5,168,9,synthetic
+SYN00684,2023-11-15,Sri Lanka,West Indies,Newlands,Sri Lanka,field,Sri Lanka,175,3,173,8,synthetic
+SYN00685,2023-11-16,Pakistan,England,Lord's,England,field,England,146,9,148,5,synthetic
+SYN00686,2023-11-17,Pakistan,West Indies,Kensington Oval,West Indies,field,Pakistan,159,6,140,8,synthetic
+SYN00687,2023-11-18,Australia,New Zealand,Gaddafi Stadium,Australia,field,Australia,169,6,163,10,synthetic
+SYN00688,2023-11-19,South Africa,Australia,Newlands,Australia,field,Australia,172,7,174,5,synthetic
+SYN00689,2023-11-20,India,England,Gaddafi Stadium,India,field,India,146,4,141,7,synthetic
+SYN00690,2023-11-21,India,Sri Lanka,Melbourne Cricket Ground,Sri Lanka,field,India,207,7,150,9,synthetic
+SYN00691,2023-11-22,Australia,India,Lord's,India,bat,India,189,7,197,5,synthetic
+SYN00692,2023-11-23,New Zealand,Sri Lanka,Eden Park,Sri Lanka,field,New Zealand,161,8,140,8,synthetic
+SYN00693,2023-11-24,Australia,West Indies,Wankhede Stadium,West Indies,bat,Australia,112,7,107,6,synthetic
+SYN00694,2023-11-25,West Indies,India,R. Premadasa Stadium,India,field,India,146,5,150,5,synthetic
+SYN00695,2023-11-26,Sri Lanka,New Zealand,Eden Park,Sri Lanka,bat,New Zealand,130,5,134,2,synthetic
+SYN00696,2023-11-27,Sri Lanka,Australia,Gaddafi Stadium,Australia,bat,Australia,172,8,177,8,synthetic
+SYN00697,2023-11-28,West Indies,Australia,Kensington Oval,Australia,bat,Australia,168,6,186,5,synthetic
+SYN00698,2023-11-29,South Africa,West Indies,R. Premadasa Stadium,South Africa,field,West Indies,141,6,175,5,synthetic
+SYN00699,2023-11-30,West Indies,New Zealand,Gaddafi Stadium,West Indies,bat,West Indies,157,6,147,6,synthetic
+SYN00700,2023-12-01,South Africa,Pakistan,Kensington Oval,South Africa,bat,South Africa,166,5,150,6,synthetic
+SYN00701,2023-12-02,India,Australia,R. Premadasa Stadium,India,bat,India,198,6,184,5,synthetic
+SYN00702,2023-12-03,New Zealand,England,Melbourne Cricket Ground,England,field,New Zealand,149,8,103,6,synthetic
+SYN00703,2023-12-04,South Africa,New Zealand,R. Premadasa Stadium,South Africa,field,New Zealand,160,9,170,8,synthetic
+SYN00704,2023-12-05,Pakistan,New Zealand,Gaddafi Stadium,Pakistan,bat,New Zealand,157,7,159,4,synthetic
+SYN00705,2023-12-06,India,West Indies,Lord's,India,field,India,182,5,176,6,synthetic
+SYN00706,2023-12-07,South Africa,India,Eden Park,South Africa,bat,South Africa,174,7,126,4,synthetic
+SYN00707,2023-12-08,Australia,England,Wankhede Stadium,England,bat,Australia,191,7,185,4,synthetic
+SYN00708,2023-12-09,India,South Africa,Wankhede Stadium,South Africa,bat,India,208,2,206,6,synthetic
+SYN00709,2023-12-10,Australia,Sri Lanka,Gaddafi Stadium,Sri Lanka,bat,Australia,155,3,152,9,synthetic
+SYN00710,2023-12-11,India,Pakistan,Gaddafi Stadium,India,field,India,136,4,131,10,synthetic
+SYN00711,2023-12-12,Pakistan,South Africa,R. Premadasa Stadium,Pakistan,bat,Pakistan,151,7,100,7,synthetic
+SYN00712,2023-12-13,Sri Lanka,India,Newlands,Sri Lanka,bat,India,141,6,144,4,synthetic
+SYN00713,2023-12-14,New Zealand,Australia,Eden Park,New Zealand,bat,Australia,202,6,204,5,synthetic
+SYN00714,2023-12-15,England,Australia,R. Premadasa Stadium,Australia,field,Australia,163,4,166,7,synthetic
+SYN00715,2023-12-16,Pakistan,Australia,Newlands,Australia,bat,Australia,109,7,146,4,synthetic
+SYN00716,2023-12-17,India,New Zealand,R. Premadasa Stadium,India,bat,India,205,5,159,9,synthetic
+SYN00717,2023-12-18,England,West Indies,Melbourne Cricket Ground,England,field,England,191,4,190,6,synthetic
+SYN00718,2023-12-19,Australia,South Africa,Newlands,Australia,bat,Australia,198,7,136,8,synthetic
+SYN00719,2023-12-20,West Indies,South Africa,Lord's,South Africa,bat,South Africa,161,9,173,6,synthetic
+SYN00720,2023-12-21,West Indies,Pakistan,Gaddafi Stadium,West Indies,field,West Indies,145,5,140,5,synthetic

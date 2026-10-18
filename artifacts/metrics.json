@@ -1,0 +1,80 @@
+{
+  "selected_model": "XGBoost",
+  "selection_metric": "validation_accuracy",
+  "candidates": [
+    {
+      "name": "Logistic Regression",
+      "validation_accuracy": 0.5763888888888888,
+      "validation_log_loss": 0.6694739713942419,
+      "test_accuracy": 0.6319444444444444,
+      "test_log_loss": 0.6464506871282639
+    },
+    {
+      "name": "Random Forest",
+      "validation_accuracy": 0.5902777777777778,
+      "validation_log_loss": 0.6388032773994334,
+      "test_accuracy": 0.6388888888888888,
+      "test_log_loss": 0.6308167635945808
+    },
+    {
+      "name": "XGBoost",
+      "validation_accuracy": 0.5972222222222222,
+      "validation_log_loss": 0.6621533818699326,
+      "test_accuracy": 0.625,
+      "test_log_loss": 0.6186982684855095
+    }
+  ],
+  "test_accuracy": 0.625,
+  "test_confusion_matrix": [
+    [
+      46,
+      18
+    ],
+    [
+      36,
+      44
+    ]
+  ],
+  "baseline_test_accuracy": 0.4444444444444444,
+  "baseline_class": 0,
+  "split": {
+    "train": {
+      "rows": 432,
+      "start": "2022-01-01",
+      "end": "2023-03-08"
+    },
+    "validation": {
+      "rows": 144,
+      "start": "2023-03-09",
+      "end": "2023-07-30"
+    },
+    "test": {
+      "rows": 144,
+      "start": "2023-07-31",
+      "end": "2023-12-21"
+    }
+  },
+  "cleaning_report": {
+    "input_rows": 720,
+    "output_rows": 720,
+    "dropped_rows": 0,
+    "duplicates_removed": 0,
+    "dropped_by_reason": {
+      "duplicate_match_id": 0,
+      "missing_match_id": 0,
+      "invalid_date": 0,
+      "invalid_teams": 0,
+      "invalid_toss_winner": 0,
+      "invalid_toss_decision": 0,
+      "unusable_outcome": 0
+    },
+    "invalid_score_values": {
+      "team1_runs": 0,
+      "team1_wickets": 0,
+      "team2_runs": 0,
+      "team2_wickets": 0
+    },
+    "missing_score_columns": []
+  },
+  "evaluation_note": "Test models fit train+validation; saved model refit on all history. Features use strictly earlier dates, including earlier test results."
+}
